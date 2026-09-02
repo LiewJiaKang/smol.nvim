@@ -1,4 +1,3 @@
-````markdown
 # smol.nvim
 
 Small plugin loader for Neovim using `vim.pack`.
